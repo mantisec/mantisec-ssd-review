@@ -45,12 +45,12 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>SAMMWise | Home </title>
+      <title>Mantisec SDLC | Home </title>
       <meta name = "keywords" content = "owassp-calc"/>
     </Head>
     <div>
-      <h1 className = {styles.title}>SAMMWise</h1>
-      <p className = {styles.paragraph}>SAMMwise provides a convenient, browser-based interface for capturing SAMM assessment responses. With this tool, users can: </p>
+      <h1 className = {styles.title}>Mantisec Secure SDLC</h1>
+      <p className = {styles.paragraph}>This tool provides a convenient, browser-based interface for capturing SAMM assessment responses. With this tool, users can: </p>
           <li className = {styles.paragraph}>	Enter responses for a single assessment</li>
           <li className = {styles.paragraph}>	Visualize the maturity results based on entered responses</li>
           <li className = {styles.paragraph}>	Compare maturity results to those for a previous assessment</li>

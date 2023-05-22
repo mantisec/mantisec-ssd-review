@@ -11,7 +11,7 @@ export default function SAMMsurvey(){
     return(<>
 
             <Head>
-                <title>SAMMWise | Assessment </title>
+                <title>Mantisec SDLC | Assessment </title>
                 <meta name = "keywords" content = "owassp-calc"/>
             </Head>
             <div>

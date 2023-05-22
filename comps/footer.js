@@ -3,8 +3,8 @@ import Image from 'next/image'
 const Footer = () => {
     return ( 
         <footer>
-            <a href="https://owasp.org/">
-                <Image src ="/Footer.png" width = {300} height={100} />
+            <a href="https://github.com/mantisec/sammwise">
+                <Image src ="/mantisec-footer.png" width = {385} height={75} />
             </a>
         </footer>
      );

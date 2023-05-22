@@ -244,7 +244,7 @@ const results = () => {
            return(
             <>
                 <Head>
-                    <title>SAMMWise | Results </title>
+                    <title>Mantisec SDLC | Results </title>
                     <meta name = "keywords" content = "owassp-calc"/>
                 </Head>
                 <h1>{completionText}</h1>

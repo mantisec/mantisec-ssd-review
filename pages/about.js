@@ -15,14 +15,14 @@ const About = () => {
     return ( 
         <>
             <Head>
-                <title>SAMMWise | About </title>
+                <title>Mantisec SDLC | About </title>
                 <meta name = "keywords" content = "owassp-calc"/>
 
             </Head>
             <div>
                 
                 <h2 className = {styles.title} >About this tool</h2>
-                <p className = {styles.paragraph}>The SAMMwise web application provides a convenient alternative to the 
+                <p className = {styles.paragraph}>This tool provides a convenient alternative to the
                     OWASP SAMM Toolkit (Excel workbook) for capturing your SAMM assessment responses.
                      Leveraging several open-source JavaScript frameworks, the SAMMwise application 
                      provides an intuitive, page-oriented workflow for completing a SAMM assessment, 
@@ -40,9 +40,6 @@ const About = () => {
                     <li className = {styles.paragraph}>			Comparison with SAMM Benchmark data</li>
                     <li className = {styles.paragraph}>			Contribution of de-identified assessment results to SAMM Benchmark Project   </li>  
                 <h2 className = {styles.title} >Version History</h2>
-                <div style={{float:"right"}}>
-                    <Image src = "/DatacomLogo.png" width = {321} height = {61}/>
-                </div>
                 <p className = {styles.paragraph}>Version 1.0 - The initial release of SAMMwise was developed in July - October 2021 by the Application Security Services Team at Datacom New Zealand. 
                     The tool was released as an open-source project and donated to the OWASP SAMM project. 
                 </p>
